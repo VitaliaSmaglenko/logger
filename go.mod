@@ -1,3 +1,3 @@
-module github.com/VitaliaSmaglenko/logger
+module github.com/VitaliaSmaglenko/logger/v2
 
 go 1.16
